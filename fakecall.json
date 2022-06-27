@@ -1,0 +1,50 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "d5b14f84249ae891",
+            "max_int": "b540cff7eb611f19",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Wahyu Kadeo",
+            "photo": "https://i.postimg.cc/XN2PTndd/796c0801b75b4c134dd5a49b3e1f5304.jpg",
+            "voice": "https://ringy9.github.io/Wahyu-Kadeo/conversion.mp3",
+            "video": "https://ringy9.github.io/Wahyu-Kadeo/wahyu.mp4",
+            "stories": [
+               "https://i.postimg.cc/HxdKCx64/0bc7bad1dfb42342f351cb4f4513d954.jpg",
+"https://i.postimg.cc/FRp6F4qt/2b3fd6b364b8568133a8b9048325c8cf.jpg",
+"https://i.postimg.cc/wMBG7r81/3a9461ed64f9a09f2d52ea8af3c05c65.jpg",
+"https://i.postimg.cc/3NbbpZYn/4f87bd22b2f34f4f534e4b2a9bc1257f.jpg",
+"https://i.postimg.cc/qMzFrWxY/63350340327c8be1400da9c2cbb3ea87.jpg",
+"https://i.postimg.cc/XN2PTndd/796c0801b75b4c134dd5a49b3e1f5304.jpg",
+"https://i.postimg.cc/xTh41gsd/c96f2c73b9b5acdfd47def9bb0afdb53.jpg",
+"https://i.postimg.cc/bwnFDbM9/cac9ec28c3cbf9e3310ac3393d550ddd.jpg",
+"https://i.postimg.cc/N0wC1Fvq/df7d3cadbba2e4d74b046fd4d4432984.jpg",
+"https://i.postimg.cc/MGbPtwzc/e3046439f8b70b93783e5498f134e278.jpg",
+"https://i.postimg.cc/mDLd5nrm/eab1e42a33988ce6c0f277ea19be89cd.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/HxdKCx64/0bc7bad1dfb42342f351cb4f4513d954.jpg",
+"https://i.postimg.cc/FRp6F4qt/2b3fd6b364b8568133a8b9048325c8cf.jpg",
+"https://i.postimg.cc/wMBG7r81/3a9461ed64f9a09f2d52ea8af3c05c65.jpg",
+"https://i.postimg.cc/3NbbpZYn/4f87bd22b2f34f4f534e4b2a9bc1257f.jpg",
+"https://i.postimg.cc/qMzFrWxY/63350340327c8be1400da9c2cbb3ea87.jpg",
+"https://i.postimg.cc/XN2PTndd/796c0801b75b4c134dd5a49b3e1f5304.jpg",
+"https://i.postimg.cc/xTh41gsd/c96f2c73b9b5acdfd47def9bb0afdb53.jpg",
+"https://i.postimg.cc/bwnFDbM9/cac9ec28c3cbf9e3310ac3393d550ddd.jpg",
+"https://i.postimg.cc/N0wC1Fvq/df7d3cadbba2e4d74b046fd4d4432984.jpg",
+"https://i.postimg.cc/MGbPtwzc/e3046439f8b70b93783e5498f134e278.jpg",
+"https://i.postimg.cc/mDLd5nrm/eab1e42a33988ce6c0f277ea19be89cd.jpg"
+            ]
+          
+        }
+    ]
+}
